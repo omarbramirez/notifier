@@ -79,12 +79,11 @@ def handle_webhook():
 
         # 3. Formatear el mensaje de WhatsApp
         mensaje_whatsapp = (
-            f"🚀 **NUEVO COMMIT EN GITHUB**\n"
+            f"🚀 **NUEVA ACTUALIZACIÓN DISPONIBLE**\n"
             f"----------------------------------------\n"
-            f"📁 Repositorio: {repo_name}\n"
             f"👤 Autor: {author_name}\n"
             f"📝 Mensaje: {commit_message}\n"
-            f"🔗 Ver Commit: {commit_url}"
+            f"🔗 Revisar: https://muebleria-mvp.vercel.app/es"
         )
 
         # 4. Enviar la notificación al grupo de WhatsApp
