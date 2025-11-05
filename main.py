@@ -7,7 +7,7 @@ import datetime
 # CONFIGURACIÓN ESENCIAL
 # =========================================================
 # ⚠️ CAMBIA ESTO: Usa los 22 caracteres alfanuméricos del enlace de invitación del grupo.
-ID_DEL_GRUPO = "TuIDDeGrupoDeWhatsApp" 
+ID_DEL_GRUPO = "JcxR4qlHtgB2bMa02SEfz3"
 # Por ejemplo: https://chat.whatsapp.com/IDDeGrupoDeWhatsApp
 
 app = Flask(__name__)
